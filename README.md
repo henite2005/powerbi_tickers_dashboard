@@ -51,3 +51,10 @@ Flag sources from Worldometers
 
 📄 License
 This project is for demonstration and educational purposes only. Not affiliated with any brand mentioned.
+
+![watch-5](https://github.com/user-attachments/assets/737c0cc5-b30e-45e2-9db6-8d213fe84f2d)
+
+📬 Feedback & Suggestions Please request the raw files via henite2005@gmail.com You can also report bugs or feature suggestions via henite2005@gmail.com
+
+🙏 Thank you. 
+👍 Karibu sana.
