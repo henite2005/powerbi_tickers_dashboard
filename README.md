@@ -14,6 +14,9 @@ This project showcases an interactive **Luxury Watch Selector** and branding com
 - **Default Fallbacks**: Displays a generic luxury watch when no brand is selected.
 - **Responsive HTML Styling**: Embedded CSS ensures clean borders, shadows, and alignment.
 
+![watch-2](https://github.com/user-attachments/assets/6bca4589-27d3-4396-8649-2f244153af02)
+
+
 🚀 How to Use
 👉Load the WATCH table with columns:
 
@@ -29,13 +32,18 @@ Flag
 
 👉Interact with slicers or visuals to dynamically update the watch image and flag.
 
+![watch-3](https://github.com/user-attachments/assets/4c9892ae-48f7-4089-8519-468a8a311236)
+
 
 🧩 Optional Enhancements
-Add country or price metadata.
+👉Add country or price metadata.
 
-Include hyperlinks to official brand websites.
+👉Include hyperlinks to official brand websites.
 
-Use bookmarks or buttons to build a premium interactive experience.
+👉Use bookmarks or buttons to build a premium interactive experience.
+
+![watch-4](https://github.com/user-attachments/assets/f863db68-d6f6-4a4a-afba-91136fb96a19)
+
 
 🛠️ Credits
 Luxury watch images sourced from Pinterest
